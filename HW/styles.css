@@ -1,0 +1,226 @@
+section {
+width: 916px;
+height: 5820px;
+background: #fff;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+    color: #000;
+    padding-top: 42px;
+}
+
+h2 {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: left;
+color: #000;
+margin-left: 25px;
+}
+
+.mercuri {
+    width: 300px;
+height: 300px;
+margin-left: 309px;
+margin-right: 309px;
+margin-top: 55px;
+
+}
+
+.venera {
+    width: 400px;
+    height: 400px;
+    margin-top: 62px;
+    margin-bottom: 61px;
+}
+
+.earth {
+    width: 420px;
+height: 400px;
+margin-left: 473px;
+margin-right: 23px;
+margin-top: 46px;
+margin-bottom: 9px;
+}
+
+.zemlya {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #000;
+width: 868px;
+height: 57px;
+margin-left: 25px;
+
+
+}
+
+.mars {
+    width: 400px;
+height: 400px;
+margin-left: 259px;
+margin-right: 259px;
+margin-top: 31px;
+margin-bottom: 48px;
+}
+
+.jupiter {
+    width: 866px;
+height: 467px;
+margin-left: 26px;
+margin-right: 24px;
+}
+
+.m {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: #000;
+    width: 868px;
+    height: 57px;
+}
+
+.j {
+font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: center;
+color: #000;
+text-align: center;
+}
+
+.jup {
+font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #000;
+width: 868px;
+height: 57px;
+  
+}
+
+.saturn {
+    width: 811px;
+height: 420px;
+margin-left: 54px;
+margin-right: 54px;
+margin-top: 48px;
+margin-bottom: 57px;
+
+
+}
+
+.s {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: center;
+color: #000;
+text-align: center;
+
+}
+
+.sat {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #000;
+width: 868px;
+height: 95px;
+margin-top: 9px;
+margin-bottom: 48px;
+margin-left: 25px;
+margin-right: 23px;
+}
+
+.uran {
+width: 450px;
+height: 457px;
+margin-left: 25px;
+}
+
+.u {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: center;
+color: #000;
+text-align: right;
+margin-left: 762px;
+margin-right: 100px;
+margin-bottom: 9px;
+
+}
+
+.ur {
+font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #000;
+margin-top: 9px;
+margin-bottom: 48px;
+margin-left: 25px;
+margin-right: 23px;
+}
+
+.neptun {
+width: 454px;
+height: 452px;
+margin-left: 439px;
+margin-right: 23px;
+}
+
+.n {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: center;
+color: #000;
+text-align: left;
+}
+
+p {
+    font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 16px;
+color: #000;
+width: 868px;
+height: 57px;
+margin-left: 25px;
+margin-right: 23px;
+
+}
+
+span {
+    color: #0029ff;
+    text-decoration: underline;
+}
+
+.v {
+font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 32px;
+text-align: center;
+color: #000;
+text-align: right;
+margin-left: 762px;
+margin-right: 6px;
+}
+
+a {
+    color: #0029ff;
+
+}
+
+body{
+    color: rgb(63, 54, 228);
+    margin: 0;
+    background-color: rgb(11, 5, 83);
+}
