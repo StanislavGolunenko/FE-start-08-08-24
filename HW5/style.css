@@ -1,0 +1,30 @@
+section {
+width: 1368px;
+height: 1323px;
+background-color: aliceblue;
+border: 5px;
+border-color: black;
+}
+
+.flag {
+    fill: #000;
+    width: 512px;
+    height: 512px;
+    position: absolute;
+    z-index: 2;
+}
+
+.circle {
+    width: 512px;
+    height: 512px;
+    margin-left: 856px;
+    position: relative;
+    top: 350px;
+    z-index: 2;
+}
+
+body {
+    background-color: rgb(5, 5, 100);
+}
+
+
