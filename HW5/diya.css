@@ -1,0 +1,167 @@
+body{
+    background-color: rgb(13, 7, 107);
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+section {
+    width: 1430px;
+    height: 1430px;
+    background-color: rgb(210, 236, 252);
+    padding: 25px;
+    margin: auto;
+    position: relative;
+}
+
+.block-left {
+    width: 512px;
+    height: 512px;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: black;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.block-center {
+    width: 512px;
+    height: 512px;
+    position: relative;
+    margin-top: -100px;
+    margin-left: 440px;
+    background: #ffce22;
+    z-index: 2;
+   
+}
+
+.block-right {
+    border-bottom: 2px solid #2137fc;
+    border-top: 2px solid #2137fc;
+    width: 512px;
+    height: 512px;
+    padding-bottom: 25px;
+    background: #ffffff;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    margin-top: -70px;
+    margin-bottom: 25px;
+    margin-left: 870px;
+    display: block;
+    position: absolute;
+    z-index: 1;
+    padding: 34px;
+}
+
+.diya {
+    position: absolute;
+    width: 309.72px;
+    height: 181.88px;
+    left: 101px;
+    top: 128.64px;
+    }
+
+    .flag{
+        width: 80px;
+        height: 60px;
+        border: 2px solid black;
+        box-sizing: content-box;
+        margin: 0 auto;
+        margin-top: 32.48px;
+        border-radius: 6px;
+        overflow: hidden;
+        position: absolute;
+        padding-top: 343px;
+     
+    }
+
+    .blue-color{
+        background-color: blue;
+        height: 30px;
+    }
+
+    .flag{
+    width: 80px;
+    height: 60px;
+    border: 2px solid black;
+    box-sizing: content-box;
+    margin: 0 auto;
+    margin-top: 32.48px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.blue-color {
+    background-color: blue;
+    height: 30px;
+}
+
+.yellow-color{
+    background-color: yellow;
+    height: 30px;
+}
+
+.blue-square {
+    background-color: blue;
+    width:512px;
+    height: 256px;
+    position: relative;
+}
+
+.yellow-square {
+    background-color: yellow;
+    width: 512px;
+    height: 256px;
+    position: relative;
+}
+
+.glyph {
+    display: block;
+    position: absolute;
+    width: 400px;
+    height: 228px;
+    top: 144px;
+    left: 55px;
+    z-index: 2;
+}
+
+.glyph-circle img {
+    display: block;
+    position: absolute;
+    width: 358.44px;
+    height: 203.74px;
+    top: 144px;
+    left: 55px;
+    z-index: 4;
+    top: 250px;
+    left: 77.6px;
+    text-align: center;
+   
+}
+
+.blue-semicircle {
+    display: block;
+    width: 444px;
+    height: 234px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    margin-top: 34px;
+    margin-left: 34px;
+    margin-right: 34px;
+    margin-bottom: 244.5px;
+  }
+
+  .yellow-semicircle {
+    width: 444px;
+    height: 444px;
+    background-color: yellow;
+    position: absolute;
+    z-index: 2;
+    border-radius: 50%;
+  }
+
+  
