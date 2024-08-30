@@ -5,7 +5,6 @@ body {
 section {
 border-radius: 20px;
 width: 360px;
-height: 800px;
 background: #fff;
 padding: 5px;
 
@@ -199,8 +198,7 @@ margin-left: 24px;
     height: 288px;
     border-radius: 10px;
     background: #fff;
-    margin-left: 22px;
-    margin-right: 22px;
+ padding: 22px;
     margin-bottom: 12px;
     }
 
