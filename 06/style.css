@@ -1,0 +1,8 @@
+main {
+    min-height: 100vh;
+    background-image: url(./images.jpg/2024-05-11_01-42-38.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
