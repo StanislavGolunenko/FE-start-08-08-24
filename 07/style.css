@@ -1,0 +1,24 @@
+.container {
+    background-color: burlywood;
+    width: 92%;
+    margin: 0 auto;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    height: 150px;
+    align-items: flex-start;
+    justify-content: space-evenly;
+   flex-direction: row-reverse;
+   
+}
+
+.logo, .user-block {
+    width: 16%;
+    height: 25px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+
+
+
