@@ -1,0 +1,294 @@
+main {
+    width: 1728px;
+    background-image: url("./images.jpg/NEtflix\ Home.png");
+    margin: 0 auto;
+    
+}
+
+header {
+    width: 1655px;
+    height: 79px;
+    padding-top: 42px;
+    padding-left: 40px;
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: space-between;
+}
+
+.block-left {
+width: 50%;
+display: flex;
+justify-content: flex-start;
+align-items: center;
+padding-top: 70px;
+padding-bottom: 30px;
+}
+
+.block-left h3 {
+font-family: "Kyiv*Type Titling", sans-serif;
+font-weight: 500;
+font-size: 24px;
+color: #c8c8c8;
+padding-left: 26px;
+}
+
+.border {
+height: 28px;
+border: 2px solid white;
+margin-left: 56px;
+}
+
+.block-right {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 33px;
+  
+    }
+
+    .content-page {
+    width: 54.92%;
+    height: 74.66%;
+    background-color: none;
+    margin-left: 40px;
+   
+    }
+
+    .content-page h2 {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: 500;
+        text-align: left;
+        letter-spacing: 2px;
+        margin-bottom: -25px;
+    }
+
+    .content-page h1 {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 64px;
+        font-weight: 800;
+        text-align: left;
+        letter-spacing: 5px;
+    }
+
+    .search {
+        margin-right: 45px;
+    }
+
+    .text1 {
+        width: 800px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: -40px;
+        margin-bottom: -35px;
+    }
+
+    .text-left h3{
+        color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 29px;
+    font-weight: 500;
+    
+    }
+
+    .text-center{
+        display: flex;
+       align-items: center;
+    }
+
+    .text-center1 h3 {
+        color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 29px;
+    font-weight: 500;
+    padding-right: 10px;
+    }
+
+    .text-center2 h3 {
+        color: rgb(167, 166, 166);
+    font-family: Inter;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 29px;
+    padding-top: 2px;
+    }
+
+    .text-right{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+    
+    }
+
+    .text-right1 {
+        display: flex;
+        justify-content: end;
+    }
+
+    .text-right1 h3 {
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 29px;
+        font-weight: 400;
+      padding-right: 10px;
+    
+      
+    }
+
+    .text-right2 h3 {
+        color: rgb(167, 166, 166);
+        font-family: Inter;
+        font-size: 29px;
+        font-weight: 400;
+        line-height: 29px;
+        padding-top: 5px;
+        
+       
+  
+    }
+
+    .textp p {
+        font-family: "Inter", sans-serif;
+font-weight: 400;
+font-size: 24px;
+
+/* line-height: 34px; */ 
+line-height: 142%;
+color: #a7a6a6;
+    }
+
+    .button{
+        display: flex;
+        padding-top: 45px;
+    }
+
+    .button1 {
+    border-radius: 10px;
+width: 272px;
+height: 64px;
+background: #d40d1f;
+text-align: center;
+margin-right: 90px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    }
+
+    .button1 button{
+        color: rgb(255, 255, 255);
+        font-family: Inter;
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 141.52%;
+        background: none;
+        border: none;
+        position: relative;
+        top: 16px;
+        margin-bottom: 24px;
+        }
+
+
+
+        .button2 {
+            border: 3px solid #fff;
+border-radius: 10px;
+width: 271px;
+height: 64px;
+text-align: center;
+box-sizing: border-box;
+        }
+
+        .button2 button {
+            font-family: "Inter", sans-serif;
+font-weight: 500;
+font-size: 22px;
+
+/* line-height: 31px; */ 
+line-height: 142%;
+color: #fff;
+background: none;
+border: none;
+position: relative;
+top: 14px;
+        }
+
+        .popular {
+            display: flex;
+            align-items: center;
+           padding-top: 30px;
+           padding-bottom: 32px;
+        }
+
+    .title {
+        width: 50%;
+        justify-content: flex-start;
+        }
+
+        .title h3{
+            width: 342px;
+            height: 26px;
+            color: rgb(255, 255, 255);
+            font-family: Inter;
+            font-size: 22px;
+            font-weight: 800;
+            line-height: 144.52%;
+            }
+
+            .icon {
+                display: flex;
+                justify-content: flex-end;
+               margin-left: 504px;
+            }
+
+            .icon1{
+                color: rgb(167, 166, 166);
+                padding-right: 24px;
+             }
+
+             .icon2{
+                color: white;
+            }
+
+            .images {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .right-corner {
+                display: flex;
+                position: absolute;
+                width: 174px;
+                height: 66px;
+                left: 1710px;
+                top: 950px;
+               
+            }
+
+            .left {
+                width: 19%;
+                height: 100%;
+                background: rgb(213, 13, 31);
+            }
+
+            .right {
+                width: 81%;
+                height: 100%;
+                background-color: rgba(255, 255, 255, 0.5);
+            }
+
+            .right div {
+                font-family: "Inter", sans-serif;
+font-weight: 500;
+font-size: 24px;
+
+/* line-height: 34px; */ 
+line-height: 142%;
+color: #fff;
+position: relative;
+top: 15px;
+left: 43px;
+            }
