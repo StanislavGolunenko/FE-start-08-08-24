@@ -1,0 +1,23 @@
+h1 {
+    font-size: 3em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.size-block {
+    padding: 2em;
+    background-color: black;
+    color: white;
+    border: 1em solid red;
+    margin: 50 px auto;
+    width: 20em;
+}
+
+@media(max-width: 1000px) {
+ body {
+    font-size: 10px;
+    background-color: yellow;
+ }
+}
