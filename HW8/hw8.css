@@ -1,0 +1,316 @@
+body {
+    background: navy;
+   
+}
+
+section {
+width: 90rem;
+height: 64.1rem;
+background: #f7fafc;
+margin: auto;
+padding-left: 10.5rem;
+}
+
+.border {
+    width: 69.12rem;
+border: 0.06rem solid rgb(203, 213, 224);
+margin-left: 5rem;
+}
+
+header h2 {
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 2.5rem;
+color: #2d3748;
+text-align: center;
+padding-top: 5.13rem;
+
+}
+
+header h3 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 1rem;
+color: #2d3748;
+text-align: center;
+line-height: 1.19rem;
+
+
+}
+
+header p {
+    height: 1.19rem;
+font-family: Roboto;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.19rem;
+text-align: left;
+padding-top: 3.81rem;
+margin-left: 5rem;
+}
+
+header a {
+    text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #2b6cb0;
+}
+
+.hobby {
+    width: 21.8rem;
+    height: 34.62rem;
+background: rgb(255, 255, 255);
+margin-top: 6.25rem;
+}
+
+.hobby-top {
+padding-top: 1.75rem;
+padding-left: 1.5rem;
+}
+
+.hobby-top h2 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 30px;
+color: #2d3748;
+}
+
+.hobby-top h1 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 3.125rem;
+color: #000;
+text-align: center;
+}
+
+.hobby-top p {
+    width: 18.875rem;
+    height: 4.75rem;
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 1rem;
+color: #4a5568;
+text-align: left;
+line-height: 1.19rem;
+}
+
+.hobby-top ul {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000;
+    line-height: 2.1rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-left: 6.88rem;
+    padding-right: 5.62rem;
+   list-style-type: none;
+   list-style-image: url("./images.png/Ellipse\ 1.png");
+   list-style-position: outside;
+   display: flex;        
+  flex-direction: column;
+  white-space: nowrap;
+  padding-left: 3.7rem;
+    
+}
+
+.hobby-bottom {
+    width: 100%;
+    height: 4.37rem;
+    background: rgb(237, 242, 247);
+    text-align: center;
+    padding-top: 1.5rem;
+    margin-top: 2.8rem;
+}
+
+.hobby-bottom h3 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 1rem;
+color: #2d3748;
+}
+
+.content {
+    width: 69.12rem;
+    height: 37.375rem;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6.44rem;
+    margin-left: 5rem;
+}
+
+.professional {
+    width: 21.8rem;
+    height: 35.31rem;
+background: rgb(255, 255, 255);
+margin-top: 3.1rem;
+
+}
+
+.professional-top {
+    padding-top: 1.75rem;
+    padding-left: 1.5rem;
+}
+
+.professional-top h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #2d3748;
+
+
+}
+
+.professional-top h1 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 3.125rem;
+color: #000;
+text-align: center;
+}
+
+.professional-top p {
+    width: 18.875rem;
+    height: 4.75rem;
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 1rem;
+color: #4a5568;
+text-align: left;
+line-height: 1.19rem;
+}
+
+.professional-top ul {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000;
+    line-height: 2.1rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-left: 6.88rem;
+    padding-right: 5.62rem;
+   list-style-type: none;
+   list-style-image: url("./images.png/Ellipse\ 1.png");
+   list-style-position: outside;
+   display: flex;        
+  flex-direction: column;
+  white-space: nowrap;
+  padding-left: 3.7rem;
+}
+
+.professional-bottom {
+    width: 100%;
+    height: 4.37rem;
+    background: #ea0774;
+    text-align: center;
+    padding-top: 1.5rem;
+    margin-top: 2.8rem;
+}
+
+
+.professional-bottom h3 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 1rem;
+color: #f7fafc;
+}
+
+.business {
+    width: 21.8rem;
+    height: 34.62rem;
+background: rgb(255, 255, 255);
+margin-top: 6.25rem;
+}
+
+
+.business-top {
+    padding-top: 1.75rem;
+    padding-left: 1.5rem;
+}
+
+.business-top h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #2d3748; 
+}
+
+.business-top h1 {
+    font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-size: 3.125rem;
+color: #000;
+text-align: center;
+}
+
+.business-top p {
+    width: 18.875rem;
+    height: 4.75rem;
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 1rem;
+color: #4a5568;
+text-align: left;
+line-height: 1.19rem;
+}
+
+.business-top ul {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000;
+    line-height: 2.1rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-left: 6.88rem;
+    padding-right: 5.62rem;
+   list-style-type: none;
+   list-style-image: url("./images.png/Ellipse\ 1.png");
+   list-style-position: outside;
+   display: flex;        
+  flex-direction: column;
+  white-space: nowrap;
+  padding-left: 3.7rem;
+}
+
+.business-bottom {
+    width: 100%;
+    height: 4.37rem;
+    background: #edf2f7;
+    text-align: center;
+    padding-top: 1.5rem;
+    margin-top: 2.8rem;
+}
+
+.business-bottom h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #2d3748;
+}
+
+@media (max-width: 50rem) {
+    body {
+        font-size: 10px;
+        background-color: aqua;
+    }
+     
+    main{
+        width: 95%;
+    }
+    main p{
+        text-align: center;
+    }
+    
+    .content{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .center{
+        width: 90%;
+        margin: 1.5rem auto;
+    }
+
+    
+}
