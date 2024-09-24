@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(102, 142, 104);
+
+}
+
+main {
+    margin: 0 auto;
+    width: 1920px;
+}
